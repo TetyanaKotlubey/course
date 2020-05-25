@@ -1,0 +1,40 @@
+.feedback
+{
+    background-color: white;
+    padding: 30px;
+   position: relative;
+   margin-bottom: 40px;
+}
+.feed
+{
+    padding-top: 20px;
+}
+.feed-text
+{
+    display: inline-block;
+    background-color:#c47940 ;
+    font-family: Casper;
+    font-size: large;
+    font-weight: bold;
+    color: white;
+    padding: 5px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+    text-align: center;
+}
+.btn-sub
+{
+    background-color: #ececee;
+    color:#64413a;
+    font-family: Casper;
+    font-size: large;
+    font-weight: bold;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    -webkit-transform:  translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
